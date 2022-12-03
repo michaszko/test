@@ -6,8 +6,9 @@ body {
     padding: 2em;
     height: 90vh;
     width: auto;
-    background: url(../img/icon.png) 95% 95% no-repeat;
-    background-size: 20vh;
+    text-align: center;
+    /* background: url(../img/icon.png) 95% 95% no-repeat; */
+    /* background-size: 20vh; */
 }
 h1 {
     font-size: 1.5em;
